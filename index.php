@@ -63,7 +63,7 @@
 	<div class="snowflakes"></div>
 	<div class="container">
 		<h1>AndrewC0de</h1>
-		<p>Welcome to AndrewC0de, your one-stop-shop for all your coding needs. We specialize in PHP and other programming languages, offering courses, tutorials, and other resources to help you become a better developer.</p>
+		<p>welcome to andrewc0de.</p>
 		<a href="#" class="btn">Get started</a>
 	</div>
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
